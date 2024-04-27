@@ -28,6 +28,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/tkul/tkul/output/snake.svg" alt="Snake animation" />
 
 ###

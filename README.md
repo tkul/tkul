@@ -1,6 +1,16 @@
 <div align="center">
+  <img src="https://profile-counter.glitch.me/tkul/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
   <img height="200" src="https://media.tenor.com/TiwoNT6JVcgAAAAj/capyroll.gif"  />
 </div>
+
+###
+
+<h3 align="left">Connect with me:</h3>
 
 ###
 
@@ -12,6 +22,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 

@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tkul/count.svg?"  />
-</div>
-
-###
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/TiwoNT6JVcgAAAAj/capyroll.gif"  />

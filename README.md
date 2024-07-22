@@ -32,9 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkul&show_icons=true&locale=en&layout=compact" alt="tkul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkul&show_icons=true&locale=en" alt="tkul" /></p>

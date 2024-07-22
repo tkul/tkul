@@ -33,8 +33,7 @@
 </div>
 
 ![tkul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkul&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
-![tkul's Stats](https://github-readme-stats.vercel.app/api?username=tkul&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+     ![tkul's Stats](https://github-readme-stats.vercel.app/api?username=tkul&theme=dracula&show_icons=true&hide_border=true&count_private=false)
 ![tkul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkul&theme=dracula&hide_border=true)
 
 ###
